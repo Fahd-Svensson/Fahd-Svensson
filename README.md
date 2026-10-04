@@ -14,4 +14,4 @@ I'm a Computing Science student at the University of Malta with a strong focus o
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/fahd-svensson-121674356) | [Email](mailto:svenssonfahd@gmail.com)[cite: 1]
+📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/fahd-svensson-121674356) | [Email](mailto:svenssonfahd@gmail.com)
