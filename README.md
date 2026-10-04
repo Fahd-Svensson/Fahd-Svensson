@@ -1,6 +1,6 @@
 # Hi, I'm Fahd Svensson 👋
 
-I'm a Computing Science student at the University of Malta with a strong focus on software engineering, web development, and artificial intelligence[cite: 1].
+I'm a Computing Science student at the University of Malta with a strong focus on software engineering, web development, and artificial intelligence.
 
 ### 🛠️ Tech & Tools
 - **Languages:** Python, SQL, HTML5, CSS3
